@@ -1,0 +1,14 @@
+le classi : 
+-la classe classe madre Utente che contiene la composizione tra  3 classi : Studente , Docente , Segretaria
+Ogni classi contiene attributi : Identificativo , Nome , Cognome 
+ e abbiamo  l'aggregazione tra la classe PianoStudio e la classe Corso 
+- La  classe Esame contiene il voto duno studente 
+- La classe StaiststicheCorso ha come attributi a media di uno stdente e la frequenza del corso 
+- La classe Test del programma 
+ 
+le metodi :
+- Aggiunge/cancella : permmette di aggiungere o cancellare uno studente alla statistiche di corso
+- Voto_massimo : permette di calculare il voto di ogni studente
+- Registra : il docente permette la regsitrazione di voto di studente 
+- Prenota : lo studente prenota l'esame 
+- Compila : lo studente compila il piano di studio e statistiche di corso
